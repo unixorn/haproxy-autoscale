@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from boto.ec2 import EC2Connection
 from boto.ec2.securitygroup import SecurityGroup
 import logging
